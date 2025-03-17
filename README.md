@@ -66,10 +66,3 @@ This program checks whether an input string consists of a word repeated twice in
 This program converts a phone number containing letters into its numeric equivalent using the standard telephone keypad mapping. It processes command-line arguments to perform the conversion and preserve non-alphabetic characters.
 
 ---
-
-## Compilation and Execution
-
-Each project can be compiled using `gcc`:
-
-```sh
-gcc -o <output_file> <source_file>.c
